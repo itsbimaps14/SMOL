@@ -18,14 +18,19 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 ### Screenshot Application
 > Page 1
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://cdn.discordapp.com/attachments/1141296813350076456/1141296834535489666/image.png)
 > Page 2
 
+![](https://cdn.discordapp.com/attachments/1141296813350076456/1141297040719102055/image.png)
 > Page 3
 
+![](https://cdn.discordapp.com/attachments/1141296813350076456/1141297094351655053/image.png)
 > Page 4
 
+![](https://cdn.discordapp.com/attachments/1141296813350076456/1141297149737447514/image.png)
 > Page 5
+
+![](https://cdn.discordapp.com/attachments/1141296813350076456/1141297149737447514/image.png)
 
 ----
 ### Structure Database
