@@ -1,0 +1,1 @@
+1	admin	$2y$10$t0/skdIh8zK7EVkOMEudk.M4jpbNVJNATz2rL9ISTGSjYdUihBRSy	administrator	admin		All	admin
