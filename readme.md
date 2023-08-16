@@ -12,7 +12,10 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 
 ----
 ### Features
-- 
+- Manage Data User.
+- Manage Data Stock Supporting Material.
+- Automation Create Document
+- Export Data (Excel).
 
 ----
 ### Screenshot Application
@@ -39,7 +42,8 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 ![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692178481/Screenshot_230_dth0fk.png)
 
 ----
-### Another Information
-Web Application SMOL developed for the internship company while during the internship so the full database is not shared publicly only the structure.
+### Extra Information
+- Web Application SMOL developed for the internship company while during the internship so the full database is not shared publicly only the structure.
+- as Intership Work Report Document email to bimaputras.sz14@gmail.com.
 
 ----
