@@ -9,4 +9,31 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 - PHP
 - Bootstrap
 - MySQL
+
+----
+### Features
+- 
+
+----
+### Screenshot Application
+> Page 1
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+
+> Page 2
+
+> Page 3
+
+> Page 4
+
+> Page 5
+
+----
+### Structure Database
+> Database Structure
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+
+----
+### Another Information
+Web Application SMOL developed for the internship company while during the internship so the database is not shared publicly.
+
 ----
