@@ -36,7 +36,7 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 ### Structure Database
 > MySQL Database
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://res.cloudinary.com/dindcjvzk/image/upload/v1692178481/Screenshot_230_dth0fk.png)
 
 ----
 ### Another Information
