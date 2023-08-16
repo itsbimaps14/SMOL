@@ -17,8 +17,8 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 ----
 ### Screenshot Application
 > Page 1
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 > Page 2
 
 > Page 3
@@ -30,6 +30,7 @@ Supporting Material Online (SMOL) is a website application developed using CodeI
 ----
 ### Structure Database
 > Database Structure
+
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 ----
